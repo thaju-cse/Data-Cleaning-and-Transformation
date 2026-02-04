@@ -15,7 +15,7 @@ Selelcted a data set from kaggle to clean and transform it  using 3 functions of
 3. Cleaned and transformed by converting csv into pandad dataframe
 4. Finally validate the transformed clean data
 
-___
+---
 
 ## Tech Stack
 ```
@@ -71,7 +71,7 @@ python3 main.py
 - Installing packages in linux
 - Understanding the errors
 
---- 
+---
 
 ## Future Enhancements
 - Automating the whole process
@@ -87,6 +87,6 @@ python3 main.py
 ---
 
 ## Author
-```
 **Shaik Thajuddhin**
+---
 **Aspiring Data Engineer**
